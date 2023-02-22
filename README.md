@@ -28,31 +28,3 @@ Label 3 restaurants are small food joints with whose rating is average but cost 
 Label 4 are expensive restaurants that also had above-average ratings.
 Sentiment Analysis were done on the Reviews and after model implementation we were getting accuracy for train data as 92% and for test data it is 89% using Logistic Regression. Hence we can deploy this model.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
